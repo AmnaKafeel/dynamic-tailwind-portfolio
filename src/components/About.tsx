@@ -10,7 +10,8 @@ const About = () => {
             alt="Amna Here"
             width={500}
             height={900}
-            className="w-full max-w-xs md:max-w-sm lg:max-w-md rounded-lg transition-transform duration-300 ease-in-out transform hover:scale-105"/>
+            className="w-full max-w-xs md:max-w-sm lg:max-w-md rounded-lg transition-transform duration-300 ease-in-out transform hover:scale-105"
+          />
         </div>
         <div className="w-full md:w-1/2 text-center md:text-left">
           <h2 className="text-xl sm:text-2xl text-gray-800 mb-3 font-extrabold ">About Me</h2>
@@ -18,21 +19,21 @@ const About = () => {
             Me <span className="text-teal-700 animate-pulse ">Amna Kafeel</span>
           </h1>
           <p className="text-base sm:text-lg text-gray-600 leading-relaxed mt-4">
-          "I specialize in building modern, responsive websites and web applications using HTML, CSS, and TypeScript, with a focus on performance and user experience."
+            &quot;I specialize in building modern, responsive websites and web applications using HTML, CSS, and TypeScript, with a focus on performance and user experience.&quot;
 
-"With in-depth knowledge of Tailwind CSS, I create fast and scalable UIs, ensuring design consistency and high-quality front-end code."
+            &quot;With in-depth knowledge of Tailwind CSS, I create fast and scalable UIs, ensuring design consistency and high-quality front-end code.&quot;
 
-"My expertise in Next.js allows me to build server-side rendered, SEO-friendly web applications that deliver high performance and enhanced user engagement."
+            &quot;My expertise in Next.js allows me to build server-side rendered, SEO-friendly web applications that deliver high performance and enhanced user engagement.&quot;
 
-"By combining HTML, CSS, TypeScript, and Tailwind CSS, I craft sleek and maintainable user interfaces while keeping accessibility and responsiveness at the forefront."
+            &quot;By combining HTML, CSS, TypeScript, and Tailwind CSS, I craft sleek and maintainable user interfaces while keeping accessibility and responsiveness at the forefront.&quot;
 
-"I focus on delivering scalable, high-performance web solutions using Next.js, TypeScript, and Tailwind CSS, making sure to build applications that are both visually appealing and technically efficient."
+            &quot;I focus on delivering scalable, high-performance web solutions using Next.js, TypeScript, and Tailwind CSS, making sure to build applications that are both visually appealing and technically efficient.&quot;
 
-"Through my expertise in TypeScript and Next.js, I develop robust and dynamic web applications, while using Tailwind CSS for clean, responsive, and customizable design solutions."
+            &quot;Through my expertise in TypeScript and Next.js, I develop robust and dynamic web applications, while using Tailwind CSS for clean, responsive, and customizable design solutions.&quot;
 
-"I use HTML, CSS, Tailwind CSS, and TypeScript to create interactive, fast, and responsive web interfaces, ensuring the applications I build are both scalable and maintainable."
+            &quot;I use HTML, CSS, Tailwind CSS, and TypeScript to create interactive, fast, and responsive web interfaces, ensuring the applications I build are both scalable and maintainable.&quot;
 
-"Combining the power of Next.js with TypeScript and Tailwind CSS, I build dynamic, and highly performant web applications that prioritize both user experience and technical excellence."
+            &quot;Combining the power of Next.js with TypeScript and Tailwind CSS, I build dynamic, and highly performant web applications that prioritize both user experience and technical excellence.&quot;
           </p>
         </div>
       </div>
